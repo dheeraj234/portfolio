@@ -24,7 +24,27 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Bit-Bucket",
+    "imageSrc": "skills/bitbucket.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
   }
 ]

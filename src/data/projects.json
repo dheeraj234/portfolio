@@ -1,10 +1,10 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Emetly",
+    "imageSrc": "projects/emetly.png",
+    "description": "A music streaming application inspired by Spotify, tailored for users to access songs, podcasts, and sign language content centered around the Bible. Developed using React Native, Node.js, and AWS S3, the app provides a seamless multimedia experience for exploring spiritual content in various formats",
+    "skills": ["React Native", "NodeJs"],
+    "demo": "https://play.google.com/store/apps/details?id=com.emetly.app&hl=en_US",
     "source": "https://www.github.com"
   },
   {
